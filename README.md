@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Thomitics's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomitics&show_icons=true&bg_color=#F9DE48,#18BCB6)
+![Thomitics's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomitics&show_icons=true&bg_color=RED,BLUE)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomitics&layout=compact)
