@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 ![Thomitics's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomitics&show_icons=true&bg_color=RED,BLUE)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomitics&layout=compact)
+
+### [My HomePage](https://foxex.cn)
